@@ -83,3 +83,10 @@ Creating a Lightning web component is a straightforward process. And Salesforce 
 1.	Right Click on LWC folder, Select create Lightning Web Component
 2.	Enter a Name for the Component
 3.	Select default Folder and press Enter.
+
+
+After creating the LWC, a folder is created inside the lwc folder. The name of the folder is in the name of what you created while creating LWC Component.
+
+The folder has a css file, js file, html file and a configuration file.
+
+We can modify those folders or add files to create multiple LWC components.
